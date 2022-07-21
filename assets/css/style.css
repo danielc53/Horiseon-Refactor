@@ -26,7 +26,7 @@ body {
 }
 
 /*Sets the header and all 'div' to unified box layout and text styling*/
-.header div {
+.header section {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -35,7 +35,7 @@ body {
 }
 
 /*Sets header display layout*/
-.header div ul li {
+.header section ul li {
     display: inline-block;
     margin-left: 25px;
 }
